@@ -10,6 +10,4 @@ const ArticlesListPage = () => {
     );
 }
 
-
-
 export default ArticlesListPage;
